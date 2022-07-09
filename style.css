@@ -1,0 +1,123 @@
+.select {
+  float: right;
+}
+.logoposition {
+  text-align: center;
+}
+.logo {
+  width: 155px;
+  height: 30px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.login-s {
+  display: block;
+  text-align: center;
+  padding-right: 100px;
+  padding-top: 30px;
+  margin-left: 100px;
+}
+.login-box {
+  width: 160px;
+  height: 50px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-style: none;
+  background-color: white;
+  margin-right: -8px;
+}
+.one-box {
+  width: 160px;
+  background-color: #f8f9fa;
+
+  height: 50px;
+  border-bottom-left-radius: 6px;
+}
+.qr-box {
+  margin-left: -8px;
+  border-top-right-radius: 6px;
+  width: 160px;
+  height: 50px;
+  background-color: #f8f9fa;
+}
+.login-in {
+  width: 472px;
+  height: 270px;
+  border: 2px solid black;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: -3px;
+  border-top-style: none;
+  padding-top: 30px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.text {
+  display: inline-block;
+}
+.login-text {
+  width: 375px;
+  height: 45px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.password-text {
+  width: 375px;
+  height: 45px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-top: -4px;
+}
+.check {
+}
+.login-ch {
+}
+.IP-ch {
+}
+.space {
+  margin-right: 30px;
+}
+.login-btn {
+  width: 375px;
+  height: 60px;
+  color: white;
+  background-color: #03c75a;
+  border: solid 1px rgba(0, 0, 0, 0.1);
+  margin-top: 40px;
+  border-radius: 6px;
+}
+input[type="checkbox"] {
+  vertical-align: text-top;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 1px solid #999;
+  appearance: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+input[type="checkbox"]:checked {
+  background: #32e732;
+  border: none;
+}
+.re {
+  text-align: center;
+}
+.ex {
+  margin-top: 150px;
+  text-align: center;
+}
+.adad {
+  padding-top: 40px;
+  text-align: center;
+}
+.ad {
+  width: 471px;
+}
+.naver {
+  font-weight: bold;
+  color: #03c75a;
+}
